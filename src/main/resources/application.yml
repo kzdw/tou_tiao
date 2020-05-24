@@ -1,0 +1,18 @@
+category: 发动机
+mostSellCarIndex: 2
+carInfoUrl: https://www.58che.com/2564/items.html
+
+#spring.data.mongodb.host=127.0.0.1
+#spring.data.mongodb.port=27017
+##spring.data.mongodb.username=mysczhky
+##spring.data.mongodb.password=k8jusy%dd7
+#spring.data.mongodb.database=projectDb
+spring:
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: carInfo
+
+
+
